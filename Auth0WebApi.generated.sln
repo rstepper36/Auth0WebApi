@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auth0WebApi", "Auth0WebApi.csproj", "{DA28D118-D274-41E0-856C-AAA0743F45DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auth0WebApi", "Auth0WebApi.csproj", "{2A41F20B-464C-409E-B0FE-040A3215450A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DA28D118-D274-41E0-856C-AAA0743F45DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DA28D118-D274-41E0-856C-AAA0743F45DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DA28D118-D274-41E0-856C-AAA0743F45DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DA28D118-D274-41E0-856C-AAA0743F45DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A41F20B-464C-409E-B0FE-040A3215450A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A41F20B-464C-409E-B0FE-040A3215450A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A41F20B-464C-409E-B0FE-040A3215450A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A41F20B-464C-409E-B0FE-040A3215450A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
