@@ -45,6 +45,7 @@ Migrations/
 appsettings.json
 appsettings.Development.json
 appsettings.Production.json
+launchSettings.json
 
 # Rider-specific files
 .idea/
