@@ -1,0 +1,4 @@
+curl --request POST \
+  --url https://dev-eox785txzodqzti0.auth0.com/oauth/token \
+  --header 'content-type: application/json' \
+  --data '{"client_id":"JIggKm2pSvp6lY6BJUhB1s1GID9K9q2v","client_secret":"rWKhYok9VFnfW56K2WbItBkcZykIby96hxmdG9fpJ4Lj3ZbCfdT8kMlhiiKHxUOh","audience":"https://myauth0api.com","grant_type":"client_credentials"} 

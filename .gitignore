@@ -1,0 +1,55 @@
+## **.gitignore**
+
+```gitignore
+# Ignore Visual Studio specific files
+.vscode/
+.vs/
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+bin/
+obj/
+publish/
+out/
+
+# Logs
+*.log
+
+# Crash reports
+crash.log
+
+# Build results
+*.dll
+*.exe
+*.app
+*.out
+*.i*86
+
+# NuGet packages
+*.nupkg
+# The build output
+*.buildlog
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# EntityFramework migrations
+Migrations/
+
+# Ignore configuration files
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+
+# Rider-specific files
+.idea/
+*.sln.iml
+
+# DotNet user-secrets
+secrets.json
+```
